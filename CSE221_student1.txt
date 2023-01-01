@@ -1,0 +1,18 @@
+ Student Name : student1 
+ Class Roll-number: 1 
+ Stream : CSE 
+ Student ID : CSE221
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Physics :- 89 
+ Electrical :- 99 
+ Mechanics :- 99 
+ PythonProgramming :- 99 
+ Biology :- 99 
+
+Total marks out of 600 is : 585 and Percentage scored is : 97%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

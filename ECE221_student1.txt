@@ -1,0 +1,18 @@
+ Student Name : student1 
+ Class Roll-number: 1 
+ Stream : ECE 
+ Student ID : ECE221
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Chemistry :- 100 
+ Electrical :- 100 
+ Mechanics :- 100 
+ PythonProgramming :- 100 
+ Biology :- 100 
+
+Total marks out of 600 is : 600 and Percentage scored is : 100%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

@@ -1,0 +1,18 @@
+ Student Name : student13 
+ Class Roll-number: 13 
+ Stream : CSE 
+ Student ID : CSE1913
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Physics :- 100 
+ Electrical :- 89 
+ Mechanics :- 94 
+ PythonProgramming :- 56 
+ Biology :- 75 
+
+Total marks out of 600 is : 514 and Percentage scored is : 85%
+Your Performance has been Excellent...
+ Grade Obtained is :- B.

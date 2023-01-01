@@ -1,0 +1,18 @@
+ Student Name : student1 
+ Class Roll-number: 1 
+ Stream : CSEAI 
+ Student ID : CSEAI221
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 88 
+ Physics :- 88 
+ Electrical :- 88 
+ Mechanics :- 88 
+ PythonProgramming :- 88 
+ Biology :- 88 
+
+Total marks out of 600 is : 528 and Percentage scored is : 88%
+Your Performance has been Excellent...
+ Grade Obtained is :- B.
